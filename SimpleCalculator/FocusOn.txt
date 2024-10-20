@@ -1,0 +1,20 @@
+﻿
+
+Learning Goals:
+
+1) Windows Forms UI Design:
+	a) Working with Controls such as buttons, labels, and textboxes,
+	b) Organizing the form layout (FlowLayoutPanel, Grid, etc)
+
+2) Event Handling:
+	a) Handling button clicks to input numbers and operators.
+3) Basic Arithmetic Operations:
+	a) Adding, Subtracting, multiplying and dividing numbers.
+4) Clear / Reset Functionality:
+	a) Ability to reset the calculator when needed.
+
+
+
+
+
+

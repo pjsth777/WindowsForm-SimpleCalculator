@@ -1,0 +1,17 @@
+E:\NewDotnetProjects\WPF Applications\Simple Calculator\SimpleCalculator\bin\Debug\net6.0-windows\SimpleCalculator.exe
+E:\NewDotnetProjects\WPF Applications\Simple Calculator\SimpleCalculator\bin\Debug\net6.0-windows\SimpleCalculator.deps.json
+E:\NewDotnetProjects\WPF Applications\Simple Calculator\SimpleCalculator\bin\Debug\net6.0-windows\SimpleCalculator.runtimeconfig.json
+E:\NewDotnetProjects\WPF Applications\Simple Calculator\SimpleCalculator\bin\Debug\net6.0-windows\SimpleCalculator.dll
+E:\NewDotnetProjects\WPF Applications\Simple Calculator\SimpleCalculator\bin\Debug\net6.0-windows\SimpleCalculator.pdb
+E:\NewDotnetProjects\WPF Applications\Simple Calculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.csproj.AssemblyReference.cache
+E:\NewDotnetProjects\WPF Applications\Simple Calculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.Form1.resources
+E:\NewDotnetProjects\WPF Applications\Simple Calculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.csproj.GenerateResource.cache
+E:\NewDotnetProjects\WPF Applications\Simple Calculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\NewDotnetProjects\WPF Applications\Simple Calculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.AssemblyInfoInputs.cache
+E:\NewDotnetProjects\WPF Applications\Simple Calculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.AssemblyInfo.cs
+E:\NewDotnetProjects\WPF Applications\Simple Calculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.csproj.CoreCompileInputs.cache
+E:\NewDotnetProjects\WPF Applications\Simple Calculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.dll
+E:\NewDotnetProjects\WPF Applications\Simple Calculator\SimpleCalculator\obj\Debug\net6.0-windows\refint\SimpleCalculator.dll
+E:\NewDotnetProjects\WPF Applications\Simple Calculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.pdb
+E:\NewDotnetProjects\WPF Applications\Simple Calculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.genruntimeconfig.cache
+E:\NewDotnetProjects\WPF Applications\Simple Calculator\SimpleCalculator\obj\Debug\net6.0-windows\ref\SimpleCalculator.dll
